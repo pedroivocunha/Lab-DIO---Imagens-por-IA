@@ -1,4 +1,4 @@
-# Lab AI-900 DIO
+# Lab DIO Imagens por IA
 
 Este repositório contém o projeto do laboratório do curso AI-900 da DIO. Neste projeto, exploramos conceitos fundamentais de Inteligência Artificial e redes neurais.
 
